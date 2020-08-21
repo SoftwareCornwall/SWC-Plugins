@@ -1,6 +1,8 @@
-# SWC-Plugins
+# SWC-Plugins ---DON NOT USE---
 
 The bundled plugins for the Software Cornwall WordPress themes. These add addiontal post types which come pre-bundled in the theme.
+
+These have been edited out of the active theme.
 
 ##
 
